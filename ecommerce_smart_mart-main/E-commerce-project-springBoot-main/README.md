@@ -77,23 +77,3 @@ ADMIN Module (http://localhost:8080/admin)
 ![img](https://github.com/jaygajera17/E-commerce_website-in-java/blob/main/JtProject/src/main/resources/Product%20Images/Screenshot%202022-04-11%20111601.jpg)
 ![img](https://github.com/jaygajera17/E-commerce_website-in-java/blob/main/JtProject/src/main/resources/Product%20Images/Screenshot%202022-04-11%20111538.jpg)
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/81226571/178270030-c4e9f485-fe0b-4bbb-804a-a28d2c182c7c.png">
-
-
-
-- **Star++** ⭐  if you  find helpful.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-<h3 align="left">If you found this valuable and want to return the favour, then</h3>
-<p><a href="https://www.buymeacoffee.com/gajerajay9I"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gajerajay9" /></a></p><br><br>
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/jaygajera17/E-commerce-project-springBoot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jaygajera17/E-commerce-project-springBoot.svg?style=for-the-badge
-[forks-url]: https://github.com/jaygajera17/E-commerce-project-springBoot/network/members
-[stars-shield]: https://img.shields.io/github/stars/jaygajera17/E-commerce-project-springBoot.svg?style=for-the-badge
-[stars-url]: https://github.com/jaygajera17/E-commerce-project-springBoot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:  https://www.linkedin.com/in/divyansh-gupta-641247125/
