@@ -70,11 +70,7 @@ ADMIN Module (http://localhost:8080/admin)
 -  user name:- jay 
 -  password:- 123
 
-## Important link
-- 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼 + 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗸 ::---  [  click here  ](https://youtu.be/c6WWdINWSlI) [![youtube][youtube-shield]][youtube-url]
 
-- connect in Linked in ::---  [ https://www.linkedin.com/in/jay-gajera-a6496b204/]
-- instagram:- [https://instagram.com/jay_gajera_17]
 
 
 ## preview
@@ -100,7 +96,4 @@ ADMIN Module (http://localhost:8080/admin)
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]:  https://www.linkedin.com/in/jay-gajera-a6496b204/
-
-[youtube-shield]:https://img.shields.io/youtube/views/c6WWdINWSlI?style=social
-[youtube-url]:  https://youtu.be/c6WWdINWSlI
+[linkedin-url]:  https://www.linkedin.com/in/divyansh-gupta-641247125/
